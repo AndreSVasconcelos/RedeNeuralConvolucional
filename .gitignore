@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data Folders
+dados/test_set/*
+dados/training_set/*
+
 # C extensions
 *.so
 
